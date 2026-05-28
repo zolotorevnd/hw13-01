@@ -26,9 +26,9 @@
 
 <img src = "img/kali.PNG" width = 100%>
 
-https://www.exploit-db.com/exploits/17491
-https://www.exploit-db.com/exploits/27407
-https://www.exploit-db.com/exploits/30020
+1. https://www.exploit-db.com/exploits/17491
+2. https://www.exploit-db.com/exploits/27407
+3. https://www.exploit-db.com/exploits/30020
 
 ### Задание 2
 
