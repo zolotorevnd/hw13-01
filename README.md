@@ -63,3 +63,18 @@
 
     На UDP → на открытые молчит, на закрытые шлёт ICMP "порт недоступен".
 
+SYN:
+
+<img src = "img/syn.PNG" width = 100%>
+
+FIN:
+
+<img src = "img/fin.PNG" width = 100%>
+
+Xmas:
+
+<img src = "img/xmas.PNG" width = 100%>
+
+UDP:
+
+<img src = "img/udp.PNG" width = 100%>
